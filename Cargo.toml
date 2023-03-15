@@ -2,7 +2,7 @@
 name = "bz_rust_util"
 version = "0.1.0"
 edition = "2021"
-authors = ["Max <you@example.com>"]
+authors = ["Mac <ibeizhu@gmail.com>"]
 description = "bz rust crate test."
 license = "MIT OR Apache-2.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
